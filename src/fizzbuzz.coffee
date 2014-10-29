@@ -15,5 +15,6 @@ class Fizzbuzz
 		else
 			number
 
-
 module.exports = Fizzbuzz
+
+@says(number) for number in [1..100]
