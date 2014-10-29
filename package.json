@@ -1,0 +1,28 @@
+{
+  "name": "coffeescript_fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz Kata Written in CoffeeScript",
+  "main": "fizzbuzz.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "coffeescript_fizzbuzz"
+  },
+  "keywords": [
+    "practice",
+    "kata",
+    "fizzbuzz",
+    "coffeescript"
+  ],
+  "author": "Zeeshan Rasool",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
